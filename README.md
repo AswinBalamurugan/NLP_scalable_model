@@ -1,7 +1,5 @@
-# NLP_xgboost
-
 # Objective
-To get a deeper understanding of the NLP techniques used for classification in this project.
+To get a deeper understanding of the NLP techniques leveraging a scalable model (XGBoost model) for classification.
 
 # Dataset
 The dataset is available on kaggle - "Deep-NLP".
