@@ -23,7 +23,7 @@ To process the given responses and build an XGBoost Classifier model to classify
 XGBoost, which stands for Extreme Gradient Boosting, is a scalable, distributed gradient-boosted decision tree (GBDT) machine learning library. A Gradient Boosting Decision Trees (GBDT) is a decision tree ensemble learning algorithm similar to random forest, for classification and regression. Ensemble learning algorithms combine multiple machine learning algorithms to obtain a better model.
 
 # Accuracy scores of the XGBoost Model
-Train Accuracy : 0.89
+Train Accuracy : 0.89 <br>
 Test Accuracy : 0.75
 
 # Conclusion
